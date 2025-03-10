@@ -4,7 +4,7 @@
 Or try it on my website: 
 
 ```
-https://graciegould.com/api/scrape/linkedin/<jobID>
+https://graciegould.com/api/scrape/linkedin/job/<jobID>
 ```
 
 Replace `<jobID>` with the actual job ID from the LinkedIn job URL.
